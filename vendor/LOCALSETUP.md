@@ -39,5 +39,6 @@ spring.flyway.table=
 egov.location.host=
 egov.location.host=
 egov.vehicle.host=
+
 egov.hrms.host=
 ```
