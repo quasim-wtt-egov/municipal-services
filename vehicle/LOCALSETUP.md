@@ -1,6 +1,6 @@
 # Local Setup
 
-To setup the fsm in your local system, clone the [Muncipal Service repository](https://github.com/egovernments/municipal-services).
+To setup the fsm in your local system, clone the [Muncipal Service repository](https://github.com/egovernments/municipal-services). 
 
 ## Dependencies
 
